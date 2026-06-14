@@ -14,10 +14,12 @@ const DocentePage = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-4">
-            ¡Hola, Docente!
+            Docentes
           </h1>
           <p className="text-gray-600">
-            Gracias por querer hacer la diferencia
+            Comparte tus proyectos
+            y ayuda a transformar
+            más comunidades.
           </p>
         </div>
 
