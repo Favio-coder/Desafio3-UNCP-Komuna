@@ -197,13 +197,13 @@ const ChatBot = () => {
         </div>
 
         {/* Imagen de WhatsApp */}
-        <div className="p-4 border-b">
-          <img 
-            src={whatsappImage} 
-            alt="Escanea el código QR de WhatsApp"
-            className="w-full h-48 object-cover rounded-lg shadow-md"
-          />
-        </div>
+       <div className="p-3 border-b flex justify-center">
+  <img 
+    src={whatsappImage} 
+    alt="Escanea el código QR de WhatsApp"
+    className="w-32 h-32 object-cover rounded-lg shadow-md"
+  />
+</div>
 
         {/* Código QR y número */}
         <div className="p-4 space-y-4">

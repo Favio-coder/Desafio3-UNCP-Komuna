@@ -23,7 +23,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <span className="font-bold text-xl text-gray-800">
-                Mathfunding <span className="text-primary-600">Komuna</span>
+                Mathfounding <span className="text-primary-600">Komuna</span>
               </span>
             </Link>
           </div>

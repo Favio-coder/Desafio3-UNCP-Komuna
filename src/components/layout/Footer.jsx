@@ -13,7 +13,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center">
                 <span className="font-bold text-sm">K</span>
               </div>
-              <h3 className="text-xl font-bold">mathfunding komuna</h3>
+              <h3 className="text-xl font-bold">mathfounding komuna</h3>
             </div>
             <div className="space-y-2">
               <div className="flex items-start space-x-2">
@@ -66,7 +66,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 mathfunding komuna. Todos los derechos reservados.
+            © 2026 mathfounding komuna. Todos los derechos reservados.
           </p>
         </div>
       </div>

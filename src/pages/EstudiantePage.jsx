@@ -61,7 +61,7 @@ const EstudiantePage = () => {
                 <p className="text-sm text-gray-500 mb-3">{problema.region}</p>
                 <div className="flex justify-between items-center">
                   <span className="text-sm text-primary-600">{problema.proyectos} proyectos</span>
-                  <Link to="/explorar" className="px-3 py-1 bg-primary-600 text-white rounded-lg text-sm hover:bg-primary-700">
+                  <Link to="/explorar" className="px-3 py-1 bg-primary-600 text-white rounded-lg text-sm hover:bg-[#b27a60]">
                     Ver más
                   </Link>
                 </div>
